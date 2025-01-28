@@ -4,7 +4,7 @@
 ## Question 1: Underfitting Problem
 * Dataset: Bike Sharing Demand
 * Metric: Mean Squared Error (Best: 0)
-* Description: Mean Squared Error (Best: 0)
+* Description: This dataset contains historical data on bike rental counts across the years, along with several features including weather conditions, date, and time information. The relationships between the input features and the target variable (bike rental count) are non-linear and complex, making simpler models prone to underfitting.
 * Project Task
   1. Goal: Your task is to predict the number of bike rentals based on the provided weather and date-time features. Initially, you will use a simple model like linear regression, which is likely to underfit this data.
   2. Instructions:
